@@ -26,3 +26,5 @@ For the backend side, it will be also required:
 | Software | Version |
 | -------- | ------- |
 | NodeJS   | >=18    |
+
+==========
